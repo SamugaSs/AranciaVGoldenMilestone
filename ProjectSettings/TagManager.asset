@@ -3,16 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SupJump
+  - speedBoost
+  - ground
+  - Coin
+  - SupRun
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - GroundLayer
   - Water
   - UI
-  - 
-  - 
+  - Player
+  - wall
   - 
   - 
   - 
